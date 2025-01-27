@@ -1,4 +1,6 @@
 .venv/
+.DS_Store
+.gitignore
 input/
 OMAE2019-95526_original_1559335076.pdf
 clipboard.dig
